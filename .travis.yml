@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key: 
     secure: ARDphlYg0DSzpuxOjnfp3t/j8RNS7u6b9sV0ECv40EZY4Li7WrIg5e0d9kw4UIn2p5BxDbFbVPTJ2o4SccePHlTI2iiKZFcQsDMW8lzEnrIOEK9yt4Q13jCRQLG+taBA8/dNZ99yZAqCVYeK3WZgFVG+OmgkbyYE8TtlYgS0pfvgiW7s+e/0WS5sj5PFdnm3G/UcuN+LMTCxOaeFMXf7dl+4kxmDYQuzaaVFPNrH0Djb6Z00vM92ClIm84ISPNC4rxZWSFbWbvXbQv7Qu+6Iktwhs4XL780/vdxWH39mlHNq7RvNFb88g8BODD2Ic/spl08E3ZmxgP+relz33FOV7hOZHrbDLKj0RE/r+4cLU3EryJK8j1GDL9FUz/R4LjnnGT1fcoz/hfMj/qmA36bJh6F1Z/Cwxj3RqbdsIRuuQ2vyEXSXbcJ5WNpZBeplb6U5ZmpT1+2RqleUcT0acI5qFFIfPWLXR0P0EcFmX8HBsoUxkCYUYCTvVCki6ULiRQj3jPshBBDx8/jTyiACYmMU5YzgosjqOX3twTDzS/U06T8gcsbAPyXoGd4vyepN27QEcpzIG6O3GZizJRBO4kzwKDNlx3RsHEjUx2PdxIWDizBdDiU+zUxL1lkZsrR3tIg8+b5Gyw58ZWeRdHcyYHzzcpvzpD6PF5E0fKgTfeYPGLM=
-  app: https://obscure-taiga-73277.herokuapp.com/
+  app: obscure-taiga-73277
   on:
     repo: Bri997/node-shopping-list-integration-tests
